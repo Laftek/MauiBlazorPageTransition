@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "QIxV1FSAlj6Pc1wxJ46AtEEFFs9R6tnt8qaFJAghXxY=",
+  "Hash": "6FMUSSj90kBB+PEwDZi9vst5SgbGev+KZ1bDCUJBhGc=",
   "Source": "MauiBlazorPagesTransitionExample",
   "BasePath": "/",
   "Mode": "Root",
@@ -253,6 +253,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\README.md"
+    },
+    {
+      "Identity": "C:\\Programming\\MAUI\\MauiBlazorPagesTransitionExample\\MauiBlazorPagesTransitionExample\\wwwroot\\css\\splash.css",
+      "SourceId": "MauiBlazorPagesTransitionExample",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Programming\\MAUI\\MauiBlazorPagesTransitionExample\\MauiBlazorPagesTransitionExample\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "css/splash.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\splash.css"
     },
     {
       "Identity": "C:\\Programming\\MAUI\\MauiBlazorPagesTransitionExample\\MauiBlazorPagesTransitionExample\\wwwroot\\favicon.ico",

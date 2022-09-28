@@ -1,20 +1,36 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover" />
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover" />
 	<title>MauiBlazorPagesTransitionExample</title>
 	<base href="/" />
 	<link rel="stylesheet" href="css/bootstrap/bootstrap.min.css" />
 	<link href="css/app.css" rel="stylesheet" />
 	<link href="MauiBlazorPagesTransitionExample.styles.css" rel="stylesheet" />
+	<link href="css/splash.css" rel="stylesheet" />
 </head>
 
 <body>
 
 	<div class="status-bar-safe-area"></div>
 
-	<div id="app">Loading...</div>
+	<div id="app">
+		<div class="splash">
+			<div class="splash-effects">
+				<span class="splash-effect-one"></span>
+				<span class="splash-effect-two"></span>
+				<span class="splash-effect-three"></span>
+			</div>
+			<div class="splash-logo">
+				<img class="splash-logo-img" src="../Resources/Splash/logo-flat.svg" alt="Logo .NET Podcasts" />
+				<h2 class="splash-logo-claim">Play and let yourself go</h2>
+			</div>
+		</div>
+	</div>
+	<!--<div id="app">Loading...</div>-->
+
+
 
 	<div id="blazor-error-ui">
 		An unhandled error has occurred.
